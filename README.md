@@ -1,1 +1,1 @@
-«Create Ubuntu 20.04 VM»
+Create centOS 7 VM
